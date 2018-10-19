@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "moviecat/bower_components/angular-animate/package.json",
+        "moviecat/bower_components/angular-bootstrap/package.json",
+        "moviecat/bower_components/angular-route/package.json",
+        "moviecat/bower_components/angular/package.json",
+        "moviecat/bower_components/bootstrap/package.json",
+        "todomvc/package.json"
+      ]
+    }
+  }
+}
